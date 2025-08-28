@@ -17,3 +17,69 @@ The Fullstack Developer Path aims to teach you everything you need to become a J
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!# scrimba-basketball-scoreboard
+
+# 🏀 Basketball Scoreboard
+
+A simple basketball scoreboard project built as part of the [Scrimba Frontend Developer Career Path](https://scrimba.com/learn/frontend).  
+This challenge focuses on practicing **HTML, CSS, and JavaScript** fundamentals such as DOM manipulation, event handling, and component styling.
+
+---
+
+## 🚀 Demo
+You can view the live version of the project here: *[Add your live site link here]*
+
+---
+
+## 📖 Features
+- Add points to **Home** and **Guest** teams with buttons (1, 2, or 3 points).
+- Dynamic score updates without refreshing the page.
+- Clear, minimal scoreboard design.
+- Built with **vanilla JavaScript** (no frameworks).
+
+---
+
+## 🛠️ Getting Started
+Clone this repository and install dependencies:
+
+```bash
+git clone https://github.com/yourusername/basketball-scoreboard.git
+cd basketball-scoreboard
+npm install
+npm start
+```
+
+The app uses [Vite](https://vitejs.dev/) for development and bundling.  
+Head over to the Vite docs for more configuration details.
+
+---
+
+## 🎯 Learning Goals
+This project helped me practice:
+- Structuring an app with semantic HTML.
+- Styling components with CSS (layout, spacing, typography).
+- Using JavaScript for DOM updates and interactivity.
+- Setting up a project with **Vite**.
+
+---
+
+## 📷 Screenshot
+![Screenshot of Basketball Scoreboard](./assets/images/Basketball%20Scoreboard.png)
+
+---
+
+## 🔮 Future Improvements
+- Add a **reset button** to restart scores.
+- Include **periods/quarters** tracking.
+- Implement **dark mode** toggle.
+- Track **fouls** and **timeouts** for each team.
+
+---
+
+## 🙌 Acknowledgements
+This project is part of the [Scrimba Basketball Scoreboard Challenge](https://scrimba.com/).  
+Special thanks to the Scrimba community for their support and feedback.
+
+---
+
+## 📜 License
+This project is open source and available under the [MIT License](LICENSE).

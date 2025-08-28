@@ -1,8 +1,32 @@
+@font-face {
+    font-family: "CursedTimer", sans-serif;
+    src: url(./assets/fonts/CursedTimerUlil-Aznm.ttf);
+}
+
+:root{
+    --dark-blue: #1B244A;
+    --white: #EEEEEE;
+    --coal: #080001;
+    --strawberry: #F94F6D;
+    --lavender: #9AABD8;
+}
+
+
 body {
+    background-color: var(--dark-blue);
     margin: 0;
+    color: var(--white);
+    font-family: 'CursedTimer', sans-serif;
+    text-align: center;
 }
 
 .container {
     display: flex;
     justify-content: space-around;
+}
+
+#home-score, #guest-score {
+    font-size: 100px;
+    color: var(--strawberry);
+    margin: 0;
 }

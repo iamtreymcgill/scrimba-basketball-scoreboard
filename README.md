@@ -26,7 +26,7 @@ This challenge focuses on practicing **HTML, CSS, and JavaScript** fundamentals 
 ---
 
 ## 🚀 Demo
-You can view the live version of the project here: *[Add your live site link here]*
+You can view the live version of the project here: *[(https://basketball-scoreboard-sc.netlify.app)]*
 
 ---
 

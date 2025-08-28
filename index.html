@@ -4,11 +4,23 @@
     </head>
     <body>
         <div class="container">
-            <div>
+            <div id="home">
                 <h3>HOME</h3>
+                <p id="home-score">0</p>
+                <div class="buttons">
+                    <button onclick="plusOneHome()" class="score-btn">+1</button>
+                    <button onclick="plusTwoHome()" class="score-btn">+2</button>
+                    <button onclick="plusThreeHome()"class="score-btn">+3</button>
+                </div>
             </div>
-            <div>
+            <div id="guest">
                 <h3>GUEST</h3>
+                <p id="guest-score">0</p>
+                <div class="buttons">
+                    <button onclick="plusOneGuest()"class="score-btn">+1</button>
+                    <button onclick="plusTwoGuest()"class="score-btn">+2</button>
+                    <button onclick="plusThreeGuest()"class="score-btn">+3</button>
+                </div>
             </div>
         </div>
         <script src="index.js"></script>
